@@ -566,6 +566,9 @@ textarea.form-control {
 .navbar-custom .dropdown-menu > li > a {
 	padding: 10px 20px;
 }
+#Home,#Services,#Skills,#Contact {
+	font-size: 14px;
+}
 
 .navbar-custom .nav .open > a,
 .navbar-custom .dropdown-menu > li > a:hover,
